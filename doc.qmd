@@ -4,5 +4,11 @@ format: html
 author: "Louise la grosse nulle"
 ---
 
-## test titre test
+```{r}
+test <- 3
+```
+
+```{r}
+print(test)
+```
 
