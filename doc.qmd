@@ -1,7 +1,7 @@
 ---
 title: "rockwell"
 format: html
-author: "Louise la nulle"
+author: "Louise la grosse nulle"
 ---
 
 ## test titre test
